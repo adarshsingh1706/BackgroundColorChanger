@@ -1,0 +1,39 @@
+body{
+    background-color: #212121;
+    color:pink;
+
+    
+}
+
+.canvas{
+    display: flex;
+    justify-content: space-around;
+}
+#grey{
+background-color: gray;
+display:block;
+height:60px;
+width:60px;
+
+}
+#white{
+background-color: whitesmoke;
+display:block;
+height:60px;
+width:60px;
+
+}
+#blue{
+background-color: blue;
+display:block;
+height:60px;
+width:60px;
+
+}
+#yellow{
+background-color: yellow;
+display:block;
+height:60px;
+width:60px;
+
+}
